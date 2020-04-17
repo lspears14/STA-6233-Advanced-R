@@ -1,0 +1,545 @@
+City_Name,Freq,income,Economic Status,Income Limit,Income Bracket,Divided Income
+Abernathy,1,1094,Poverty,15000,"$0-$14,999",10.94
+Abilene,9,42327,Middle Income,50000,"$35,000 - $49,999",423.27
+Alamo,3,5901,Poverty,15000,"$0-$14,999",59.01
+Albany,1,717,Poverty,15000,"$0-$14,999",7.17
+Alice,2,6545,Poverty,15000,"$0-$14,999",65.45
+Allen,1,32518,Low Income,25000,"$15,000 - $24,999",325.18
+Alpine,1,2615,Poverty,15000,"$0-$14,999",26.15
+Alton,2,4436,Poverty,15000,"$0-$14,999",44.36
+Alvarado,3,1471,Poverty,15000,"$0-$14,999",14.71
+Alvin,2,9291,Poverty,15000,"$0-$14,999",92.91
+Amarillo,17,75563,Middle Income,76600,"$50,000 - $75,999",755.63
+Anahuac,1,799,Poverty,15000,"$0-$14,999",7.99
+Angleton,1,7527,Poverty,15000,"$0-$14,999",75.27
+Anna,1,3389,Poverty,15000,"$0-$14,999",33.89
+Anson,1,815,Poverty,15000,"$0-$14,999",8.15
+Aransas Pass,1,3088,Poverty,15000,"$0-$14,999",30.88
+Arcola,1,489,Poverty,15000,"$0-$14,999",4.89
+Arlington,14,134984,High Income,150000,"$100,000 - $149,999",1349.84
+Athens,2,4014,Poverty,15000,"$0-$14,999",40.14
+Atlanta,1,2232,Poverty,15000,"$0-$14,999",22.32
+Aubrey,2,1202,Poverty,15000,"$0-$14,999",12.02
+Austin,17,370043,High Income,350000,"$200,000 - $350,000",3700.43
+Azle,3,4435,Poverty,15000,"$0-$14,999",44.35
+Bacliff,1,3614,Poverty,15000,"$0-$14,999",36.14
+Balch Springs,2,6591,Poverty,15000,"$0-$14,999",65.91
+Ballinger,1,1303,Poverty,15000,"$0-$14,999",13.03
+Bandera,1,318,Poverty,15000,"$0-$14,999",3.18
+Bangs,1,608,Poverty,15000,"$0-$14,999",6.08
+Bartlett,1,453,Poverty,15000,"$0-$14,999",4.53
+Bastrop,2,3180,Poverty,15000,"$0-$14,999",31.8
+Bay City,1,6122,Poverty,15000,"$0-$14,999",61.22
+Baytown,6,26581,Low Income,25000,"$15,000 - $24,999",265.81
+Beaumont,10,46233,Middle Income,50000,"$35,000 - $49,999",462.33
+Bedford,1,21120,Poverty,15000,"$15,000 - $24,999",211.2
+Beeville,2,4593,Poverty,15000,"$0-$14,999",45.93
+Bellmead,2,3691,Poverty,15000,"$0-$14,999",36.91
+Bellville,1,1826,Poverty,15000,"$0-$14,999",18.26
+Belton,3,7102,Poverty,15000,"$0-$14,999",71.02
+Benbrook,1,9533,Poverty,15000,"$0-$14,999",95.33
+Bertram,1,513,Poverty,15000,"$0-$14,999",5.13
+Big Lake,1,985,Poverty,15000,"$0-$14,999",9.85
+Big Spring,2,8000,Poverty,15000,"$0-$14,999",80
+Bishop,1,1054,Poverty,15000,"$0-$14,999",10.54
+Blanco,1,837,Poverty,15000,"$0-$14,999",8.37
+Blessing,1,220,Poverty,15000,"$0-$14,999",2.2
+Bloomington,1,661,Poverty,15000,"$0-$14,999",6.61
+Blossom,1,595,Poverty,15000,"$0-$14,999",5.95
+Blue Ridge,1,336,Poverty,15000,"$0-$14,999",3.36
+Bogata,1,490,Poverty,15000,"$0-$14,999",4.9
+Boling,1,397,Poverty,15000,"$0-$14,999",3.97
+Bonham,2,3046,Poverty,15000,"$0-$14,999",30.46
+Borger,2,4298,Poverty,15000,"$0-$14,999",42.98
+Bowie,1,2107,Poverty,15000,"$0-$14,999",21.07
+Brady,1,2084,Poverty,15000,"$0-$14,999",20.84
+Brazoria,1,1229,Poverty,15000,"$0-$14,999",12.29
+Breckenridge,1,1953,Poverty,15000,"$0-$14,999",19.53
+Brenham,1,5388,Poverty,15000,"$0-$14,999",53.88
+Bridge City,1,2785,Poverty,15000,"$0-$14,999",27.85
+Bridgeport,1,1900,Poverty,15000,"$0-$14,999",19
+Brookshire,1,1445,Poverty,15000,"$0-$14,999",14.45
+Brownfield,1,3000,Poverty,15000,"$0-$14,999",30
+Brownsboro,1,379,Poverty,15000,"$0-$14,999",3.79
+Brownsville,6,51585,Middle Income,76600,"$50,000 - $75,999",515.85
+Brownwood,4,6826,Poverty,15000,"$0-$14,999",68.26
+Bryan,6,29985,Low Income,25000,"$15,000 - $24,999",299.85
+Buchanan Dam,1,697,Poverty,15000,"$0-$14,999",6.97
+Buda,1,5183,Poverty,15000,"$0-$14,999",51.83
+Buffalo,1,632,Poverty,15000,"$0-$14,999",6.32
+Buna,1,739,Poverty,15000,"$0-$14,999",7.39
+Burkburnett,1,4618,Poverty,15000,"$0-$14,999",46.18
+Burleson,2,15349,Poverty,15000,"$15,000 - $24,999",153.49
+Burnet,1,2000,Poverty,15000,"$0-$14,999",20
+Caddo Mills,1,590,Poverty,15000,"$0-$14,999",5.9
+Caldwell,1,1509,Poverty,15000,"$0-$14,999",15.09
+Cameron,1,2096,Poverty,15000,"$0-$14,999",20.96
+Canton,1,1467,Poverty,15000,"$0-$14,999",14.67
+Canutillo,1,1436,Poverty,15000,"$0-$14,999",14.36
+Canyon,1,5379,Poverty,15000,"$0-$14,999",53.79
+Canyon Lake,3,9835,Poverty,15000,"$0-$14,999",98.35
+Carrizo Springs,1,1889,Poverty,15000,"$0-$14,999",18.89
+Carrollton,3,47913,Middle Income,50000,"$35,000 - $49,999",479.13
+Carthage,2,2412,Poverty,15000,"$0-$14,999",24.12
+Castroville,1,1142,Poverty,15000,"$0-$14,999",11.42
+Cedar Hill,1,15616,Poverty,15000,"$15,000 - $24,999",156.16
+Celina,1,2865,Poverty,15000,"$0-$14,999",28.65
+Center,1,1807,Poverty,15000,"$0-$14,999",18.07
+Centerville,1,334,Poverty,15000,"$0-$14,999",3.34
+Chandler,1,1168,Poverty,15000,"$0-$14,999",11.68
+Channelview,1,11794,Poverty,15000,"$0-$14,999",117.94
+Chico,1,374,Poverty,15000,"$0-$14,999",3.74
+Childress,1,1864,Poverty,15000,"$0-$14,999",18.64
+China,1,424,Poverty,15000,"$0-$14,999",4.24
+China Spring,1,371,Poverty,15000,"$0-$14,999",3.71
+Cisco,1,1523,Poverty,15000,"$0-$14,999",15.23
+Clarksville,1,1282,Poverty,15000,"$0-$14,999",12.82
+Cleburne,2,10915,Poverty,15000,"$0-$14,999",109.15
+Cleveland,6,2762,Poverty,15000,"$0-$14,999",27.62
+Clifton,1,1268,Poverty,15000,"$0-$14,999",12.68
+Clute,2,4312,Poverty,15000,"$0-$14,999",43.12
+Clyde,1,1229,Poverty,15000,"$0-$14,999",12.29
+Coldspring,1,283,Poverty,15000,"$0-$14,999",2.83
+Coleman,1,1819,Poverty,15000,"$0-$14,999",18.19
+College Station,1,39908,Middle Income,50000,"$35,000 - $49,999",399.08
+Columbus,1,1385,Poverty,15000,"$0-$14,999",13.85
+Comanche,1,1554,Poverty,15000,"$0-$14,999",15.54
+Comfort,1,795,Poverty,15000,"$0-$14,999",7.95
+Commerce,2,2931,Poverty,15000,"$0-$14,999",29.31
+Conroe,6,29836,Low Income,25000,"$15,000 - $24,999",298.36
+Converse,2,7646,Poverty,15000,"$0-$14,999",76.46
+Cooper,1,814,Poverty,15000,"$0-$14,999",8.14
+Copperas Cove,2,12300,Poverty,15000,"$0-$14,999",123
+Corpus Christi,14,116562,High Income,150000,"$100,000 - $149,999",1165.62
+Corsicana,4,8228,Poverty,15000,"$0-$14,999",82.28
+Crandall,1,1204,Poverty,15000,"$0-$14,999",12.04
+Creedmoor,1,61,Poverty,15000,"$0-$14,999",0.61
+Crockett,2,2620,Poverty,15000,"$0-$14,999",26.2
+Crosby,1,932,Poverty,15000,"$0-$14,999",9.32
+Crowley,1,4725,Poverty,15000,"$0-$14,999",47.25
+Crystal City,1,2234,Poverty,15000,"$0-$14,999",22.34
+Cuero,1,2488,Poverty,15000,"$0-$14,999",24.88
+Daingerfield,1,967,Poverty,15000,"$0-$14,999",9.67
+Dalhart,2,2963,Poverty,15000,"$0-$14,999",29.63
+Dallas,12,505816,High Income,350000,"$200,000 - $350,000",5058.16
+Danbury,1,519,Poverty,15000,"$0-$14,999",5.19
+Dayton,2,2920,Poverty,15000,"$0-$14,999",29.2
+De Kalb,1,705,Poverty,15000,"$0-$14,999",7.05
+De Leon,1,995,Poverty,15000,"$0-$14,999",9.95
+Decatur,1,2480,Poverty,15000,"$0-$14,999",24.8
+Deer Park,2,11176,Poverty,15000,"$0-$14,999",111.76
+Del Rio,4,11376,Poverty,15000,"$0-$14,999",113.76
+Denison,2,9314,Poverty,15000,"$0-$14,999",93.14
+Denton,5,46561,Middle Income,50000,"$35,000 - $49,999",465.61
+Devine,1,1549,Poverty,15000,"$0-$14,999",15.49
+Diboll,1,1385,Poverty,15000,"$0-$14,999",13.85
+Dickinson,2,7604,Poverty,15000,"$0-$14,999",76.04
+Donna,5,4880,Poverty,15000,"$0-$14,999",48.8
+Dripping Springs,1,1051,Poverty,15000,"$0-$14,999",10.51
+Dublin,1,1141,Poverty,15000,"$0-$14,999",11.41
+Dumas,1,4463,Poverty,15000,"$0-$14,999",44.63
+Duncanville,4,13290,Poverty,15000,"$0-$14,999",132.9
+Eagle Lake,1,1074,Poverty,15000,"$0-$14,999",10.74
+Eagle Pass,5,8674,Poverty,15000,"$0-$14,999",86.74
+East Bernard,1,946,Poverty,15000,"$0-$14,999",9.46
+Eastland,1,1372,Poverty,15000,"$0-$14,999",13.72
+Edcouch,1,1018,Poverty,15000,"$0-$14,999",10.18
+Edinburg,12,26603,Low Income,25000,"$15,000 - $24,999",266.03
+Edna,1,1973,Poverty,15000,"$0-$14,999",19.73
+El Campo,1,4104,Poverty,15000,"$0-$14,999",41.04
+El Paso,28,225264,High Income,350000,"$200,000 - $350,000",2252.64
+Eldorado,1,853,Poverty,15000,"$0-$14,999",8.53
+Electra,1,1322,Poverty,15000,"$0-$14,999",13.22
+Elgin,1,2773,Poverty,15000,"$0-$14,999",27.73
+Elmendorf,1,623,Poverty,15000,"$0-$14,999",6.23
+Elsa,1,1954,Poverty,15000,"$0-$14,999",19.54
+Emory,1,484,Poverty,15000,"$0-$14,999",4.84
+Ennis,1,6211,Poverty,15000,"$0-$14,999",62.11
+Euless,2,21707,Poverty,15000,"$15,000 - $24,999",217.07
+Eustace,2,376,Poverty,15000,"$0-$14,999",3.76
+Everman,1,1943,Poverty,15000,"$0-$14,999",19.43
+Fairfield,1,1007,Poverty,15000,"$0-$14,999",10.07
+Falfurrias,1,1477,Poverty,15000,"$0-$14,999",14.77
+Farmersville,1,1318,Poverty,15000,"$0-$14,999",13.18
+Ferris,1,815,Poverty,15000,"$0-$14,999",8.15
+Florence,1,323,Poverty,15000,"$0-$14,999",3.23
+Floresville,1,2352,Poverty,15000,"$0-$14,999",23.52
+Floydada,1,1115,Poverty,15000,"$0-$14,999",11.15
+Forney,1,5970,Poverty,15000,"$0-$14,999",59.7
+Fort Stockton,1,2602,Poverty,15000,"$0-$14,999",26.02
+Fort Worth,21,291739,High Income,350000,"$200,000 - $350,000",2917.39
+Franklin,1,650,Poverty,15000,"$0-$14,999",6.5
+Fredericksburg,1,4527,Poverty,15000,"$0-$14,999",45.27
+Freeport,2,4034,Poverty,15000,"$0-$14,999",40.34
+Fritch,1,796,Poverty,15000,"$0-$14,999",7.96
+Fulshear,1,2308,Poverty,15000,"$0-$14,999",23.08
+Gainesville,1,6163,Poverty,15000,"$0-$14,999",61.63
+Galveston,1,20920,Poverty,15000,"$15,000 - $24,999",209.2
+Ganado,1,715,Poverty,15000,"$0-$14,999",7.15
+Garland,8,75439,Middle Income,76600,"$50,000 - $75,999",754.39
+Gatesville,1,2771,Poverty,15000,"$0-$14,999",27.71
+George West,1,666,Poverty,15000,"$0-$14,999",6.66
+Georgetown,2,25649,Low Income,25000,"$15,000 - $24,999",256.49
+Gilmer,1,1770,Poverty,15000,"$0-$14,999",17.7
+Gladewater,1,2113,Poverty,15000,"$0-$14,999",21.13
+Glen Rose,1,1092,Poverty,15000,"$0-$14,999",10.92
+Glenn Heights,1,3659,Poverty,15000,"$0-$14,999",36.59
+Godley,1,374,Poverty,15000,"$0-$14,999",3.74
+Goldthwaite,1,788,Poverty,15000,"$0-$14,999",7.88
+Gonzales,1,2626,Poverty,15000,"$0-$14,999",26.26
+Graham,1,3365,Poverty,15000,"$0-$14,999",33.65
+Granbury,3,3996,Poverty,15000,"$0-$14,999",39.96
+Grand Prairie,5,60503,Middle Income,76600,"$50,000 - $75,999",605.03
+Grand Saline,1,978,Poverty,15000,"$0-$14,999",9.78
+Grandview,1,734,Poverty,15000,"$0-$14,999",7.34
+Granite Shoals,1,1548,Poverty,15000,"$0-$14,999",15.48
+Grapeland,1,717,Poverty,15000,"$0-$14,999",7.17
+Grapevine,1,20097,Poverty,15000,"$15,000 - $24,999",200.97
+Greenville,3,9921,Poverty,15000,"$0-$14,999",99.21
+Groesbeck,1,1429,Poverty,15000,"$0-$14,999",14.29
+Groves,1,5992,Poverty,15000,"$0-$14,999",59.92
+Groveton,1,423,Poverty,15000,"$0-$14,999",4.23
+Gun Barrel City,1,2514,Poverty,15000,"$0-$14,999",25.14
+Gunter,1,353,Poverty,15000,"$0-$14,999",3.53
+Hallettsville,1,1082,Poverty,15000,"$0-$14,999",10.82
+Hallsville,1,1421,Poverty,15000,"$0-$14,999",14.21
+Haltom City,3,14288,Poverty,15000,"$0-$14,999",142.88
+Hamlin,1,711,Poverty,15000,"$0-$14,999",7.11
+Harker Heights,2,10375,Poverty,15000,"$0-$14,999",103.75
+Harlingen,6,21015,Poverty,15000,"$15,000 - $24,999",210.15
+Haskell,1,1093,Poverty,15000,"$0-$14,999",10.93
+Haslet,1,556,Poverty,15000,"$0-$14,999",5.56
+Hawkins,1,489,Poverty,15000,"$0-$14,999",4.89
+Hawley,1,253,Poverty,15000,"$0-$14,999",2.53
+Hearne,1,1498,Poverty,15000,"$0-$14,999",14.98
+Helotes,1,2638,Poverty,15000,"$0-$14,999",26.38
+Hemphill,1,465,Poverty,15000,"$0-$14,999",4.65
+Hempstead,1,2559,Poverty,15000,"$0-$14,999",25.59
+Henderson,2,4011,Poverty,15000,"$0-$14,999",40.11
+Henrietta,1,1148,Poverty,15000,"$0-$14,999",11.48
+Hereford,1,4931,Poverty,15000,"$0-$14,999",49.31
+Hewitt,1,5164,Poverty,15000,"$0-$14,999",51.64
+Hico,1,484,Poverty,15000,"$0-$14,999",4.84
+Hidalgo,2,3479,Poverty,15000,"$0-$14,999",34.79
+Highlands,1,2686,Poverty,15000,"$0-$14,999",26.86
+Hillsboro,1,2777,Poverty,15000,"$0-$14,999",27.77
+Hitchcock,1,2666,Poverty,15000,"$0-$14,999",26.66
+Hondo,1,2182,Poverty,15000,"$0-$14,999",21.82
+Honey Grove,1,794,Poverty,15000,"$0-$14,999",7.94
+Hooks,1,957,Poverty,15000,"$0-$14,999",9.57
+Horizon City,1,5350,Poverty,15000,"$0-$14,999",53.5
+Houston,32,848340,High Income,350000,"$200,000 - $350,000",8483.4
+Hubbard,1,544,Poverty,15000,"$0-$14,999",5.44
+Hughes Springs,1,649,Poverty,15000,"$0-$14,999",6.49
+Humble,5,5835,Poverty,15000,"$0-$14,999",58.35
+Huntington,1,785,Poverty,15000,"$0-$14,999",7.85
+Huntsville,2,12391,Poverty,15000,"$0-$14,999",123.91
+Hurst,2,13851,Poverty,15000,"$0-$14,999",138.51
+Hutto,1,7043,Poverty,15000,"$0-$14,999",70.43
+Idalou,1,761,Poverty,15000,"$0-$14,999",7.61
+Ingleside,1,3517,Poverty,15000,"$0-$14,999",35.17
+Ingram,1,633,Poverty,15000,"$0-$14,999",6.33
+Iowa Park,1,2469,Poverty,15000,"$0-$14,999",24.69
+Irving,4,84772,High Income,100000,"$76,000 - $99,999",847.72
+Itasca,1,522,Poverty,15000,"$0-$14,999",5.22
+Jacinto City,1,3170,Poverty,15000,"$0-$14,999",31.7
+Jacksboro,1,1337,Poverty,15000,"$0-$14,999",13.37
+Jacksonville,2,5202,Poverty,15000,"$0-$14,999",52.02
+Jarrell,1,398,Poverty,15000,"$0-$14,999",3.98
+Jasper,1,2593,Poverty,15000,"$0-$14,999",25.93
+Jefferson,1,1000,Poverty,15000,"$0-$14,999",10
+Johnson City,1,760,Poverty,15000,"$0-$14,999",7.6
+Joshua,1,2577,Poverty,15000,"$0-$14,999",25.77
+Jourdanton,1,1290,Poverty,15000,"$0-$14,999",12.9
+Junction,1,1027,Poverty,15000,"$0-$14,999",10.27
+Justin,1,1241,Poverty,15000,"$0-$14,999",12.41
+Karnes City,1,750,Poverty,15000,"$0-$14,999",7.5
+Katy,2,6000,Poverty,15000,"$0-$14,999",60
+Kaufman,2,2188,Poverty,15000,"$0-$14,999",21.88
+Keene,1,1879,Poverty,15000,"$0-$14,999",18.79
+Keller,1,15230,Poverty,15000,"$15,000 - $24,999",152.3
+Kemp,1,339,Poverty,15000,"$0-$14,999",3.39
+Kempner,1,386,Poverty,15000,"$0-$14,999",3.86
+Kenedy,1,1151,Poverty,15000,"$0-$14,999",11.51
+Kennedale,1,2706,Poverty,15000,"$0-$14,999",27.06
+Kerens,1,628,Poverty,15000,"$0-$14,999",6.28
+Kerrville,1,9666,Poverty,15000,"$0-$14,999",96.66
+Kilgore,2,5221,Poverty,15000,"$0-$14,999",52.21
+Killeen,10,51887,Middle Income,76600,"$50,000 - $75,999",518.87
+Kingsland,1,2679,Poverty,15000,"$0-$14,999",26.79
+Kingsville,2,9015,Poverty,15000,"$0-$14,999",90.15
+Kirby,1,3102,Poverty,15000,"$0-$14,999",31.02
+Kirbyville,1,958,Poverty,15000,"$0-$14,999",9.58
+Kountze,1,697,Poverty,15000,"$0-$14,999",6.97
+Krum,1,1654,Poverty,15000,"$0-$14,999",16.54
+Kyle,4,12930,Poverty,15000,"$0-$14,999",129.3
+La Feria,1,2376,Poverty,15000,"$0-$14,999",23.76
+La Grange,1,1575,Poverty,15000,"$0-$14,999",15.75
+La Joya,1,1209,Poverty,15000,"$0-$14,999",12.09
+La Marque,1,5860,Poverty,15000,"$0-$14,999",58.6
+La Porte,2,12563,Poverty,15000,"$0-$14,999",125.63
+La Vernia,1,389,Poverty,15000,"$0-$14,999",3.89
+Lago Vista,1,2812,Poverty,15000,"$0-$14,999",28.12
+Lake Dallas,1,2843,Poverty,15000,"$0-$14,999",28.43
+Lake Jackson,1,10454,Poverty,15000,"$0-$14,999",104.54
+Lake Worth,1,1575,Poverty,15000,"$0-$14,999",15.75
+Lakehills,1,1900,Poverty,15000,"$0-$14,999",19
+Lamesa,2,3589,Poverty,15000,"$0-$14,999",35.89
+Lampasas,1,2901,Poverty,15000,"$0-$14,999",29.01
+Lancaster,3,13177,Poverty,15000,"$0-$14,999",131.77
+Laredo,6,69908,Middle Income,76600,"$50,000 - $75,999",699.08
+Lavon,1,946,Poverty,15000,"$0-$14,999",9.46
+League City,1,34869,Low Income,25000,"$15,000 - $24,999",348.69
+Leander,1,13905,Poverty,15000,"$0-$14,999",139.05
+Leonard,1,805,Poverty,15000,"$0-$14,999",8.05
+Levelland,1,4763,Poverty,15000,"$0-$14,999",47.63
+Lewisville,3,38908,Middle Income,50000,"$35,000 - $49,999",389.08
+Liberty,2,3146,Poverty,15000,"$0-$14,999",31.46
+Liberty Hill,1,395,Poverty,15000,"$0-$14,999",3.95
+Lindale,1,2177,Poverty,15000,"$0-$14,999",21.77
+Linden,1,877,Poverty,15000,"$0-$14,999",8.77
+Little Elm,1,13622,Poverty,15000,"$0-$14,999",136.22
+Littlefield,1,2066,Poverty,15000,"$0-$14,999",20.66
+Live Oak,1,6178,Poverty,15000,"$0-$14,999",61.78
+Llano,1,1023,Poverty,15000,"$0-$14,999",10.23
+Lockhart,1,4277,Poverty,15000,"$0-$14,999",42.77
+Log Cabin,1,268,Poverty,15000,"$0-$14,999",2.68
+Lone Oak,1,245,Poverty,15000,"$0-$14,999",2.45
+Lone Star,1,693,Poverty,15000,"$0-$14,999",6.93
+Longview,9,30610,Low Income,25000,"$15,000 - $24,999",306.1
+Lorena,1,744,Poverty,15000,"$0-$14,999",7.44
+Los Fresnos,2,35,Poverty,15000,"$0-$14,999",0.35
+Lubbock,18,94398,High Income,100000,"$76,000 - $99,999",943.98
+Lufkin,9,12910,Poverty,15000,"$0-$14,999",129.1
+Luling,1,2008,Poverty,15000,"$0-$14,999",20.08
+Lumberton,2,4556,Poverty,15000,"$0-$14,999",45.56
+Lyford,1,719,Poverty,15000,"$0-$14,999",7.19
+Lytle,1,913,Poverty,15000,"$0-$14,999",9.13
+Madisonville,1,1734,Poverty,15000,"$0-$14,999",17.34
+Magnolia,3,739,Poverty,15000,"$0-$14,999",7.39
+Malakoff,1,945,Poverty,15000,"$0-$14,999",9.45
+Manor,1,2472,Poverty,15000,"$0-$14,999",24.72
+Mansfield,2,21856,Poverty,15000,"$15,000 - $24,999",218.56
+Manvel,1,2783,Poverty,15000,"$0-$14,999",27.83
+Marble Falls,1,2625,Poverty,15000,"$0-$14,999",26.25
+Marion,1,344,Poverty,15000,"$0-$14,999",3.44
+Marlin,1,1852,Poverty,15000,"$0-$14,999",18.52
+Marshall,2,7882,Poverty,15000,"$0-$14,999",78.82
+Martindale,1,432,Poverty,15000,"$0-$14,999",4.32
+Mason,1,815,Poverty,15000,"$0-$14,999",8.15
+Mathis,1,1551,Poverty,15000,"$0-$14,999",15.51
+Maypearl,1,228,Poverty,15000,"$0-$14,999",2.28
+Mercedes,2,4820,Poverty,15000,"$0-$14,999",48.2
+Meridian,1,578,Poverty,15000,"$0-$14,999",5.78
+Mesquite,7,79,Poverty,15000,"$0-$14,999",0.79
+Mexia,1,2353,Poverty,15000,"$0-$14,999",23.53
+Midland,7,46552,Middle Income,50000,"$35,000 - $49,999",465.52
+Midlothian,1,7801,Poverty,15000,"$0-$14,999",78.01
+Mineola,1,1589,Poverty,15000,"$0-$14,999",15.89
+Mineral Wells,2,5020,Poverty,15000,"$0-$14,999",50.2
+Mission,9,24340,Poverty,15000,"$15,000 - $24,999",243.4
+Missouri City,3,24417,Poverty,15000,"$15,000 - $24,999",244.17
+Monte Alto,1,530,Poverty,15000,"$0-$14,999",5.3
+Montgomery,1,334,Poverty,15000,"$0-$14,999",3.34
+Moody,1,569,Poverty,15000,"$0-$14,999",5.69
+Mount Pleasant,2,5171,Poverty,15000,"$0-$14,999",51.71
+Muenster,1,561,Poverty,15000,"$0-$14,999",5.61
+Muleshoe,1,1618,Poverty,15000,"$0-$14,999",16.18
+Munday,1,451,Poverty,15000,"$0-$14,999",4.51
+Nacogdoches,3,12063,Poverty,15000,"$0-$14,999",120.63
+Nash,1,1339,Poverty,15000,"$0-$14,999",13.39
+Natalia,1,352,Poverty,15000,"$0-$14,999",3.52
+Navasota,1,2273,Poverty,15000,"$0-$14,999",22.73
+Nederland,2,6909,Poverty,15000,"$0-$14,999",69.09
+Needville,1,1114,Poverty,15000,"$0-$14,999",11.14
+New Boston,1,1788,Poverty,15000,"$0-$14,999",17.88
+New Braunfels,6,26524,Low Income,25000,"$15,000 - $24,999",265.24
+New Waverly,1,407,Poverty,15000,"$0-$14,999",4.07
+Newton,1,812,Poverty,15000,"$0-$14,999",8.12
+Nixon,1,867,Poverty,15000,"$0-$14,999",8.67
+Nocona,1,1198,Poverty,15000,"$0-$14,999",11.98
+Nolanville,1,1892,Poverty,15000,"$0-$14,999",18.92
+North Richland Hills,2,26051,Low Income,25000,"$15,000 - $24,999",260.51
+Odem,1,799,Poverty,15000,"$0-$14,999",7.99
+Odessa,13,40319,Middle Income,50000,"$35,000 - $49,999",403.19
+Olney,1,1269,Poverty,15000,"$0-$14,999",12.69
+Olton,1,695,Poverty,15000,"$0-$14,999",6.95
+Onalaska,1,1152,Poverty,15000,"$0-$14,999",11.52
+Orange,5,7886,Poverty,15000,"$0-$14,999",78.86
+Orange Grove,1,522,Poverty,15000,"$0-$14,999",5.22
+Ore City,1,415,Poverty,15000,"$0-$14,999",4.15
+Overton,1,888,Poverty,15000,"$0-$14,999",8.88
+Ovilla,1,1372,Poverty,15000,"$0-$14,999",13.72
+Palacios,1,1751,Poverty,15000,"$0-$14,999",17.51
+Palestine,3,6617,Poverty,15000,"$0-$14,999",66.17
+Palmview,2,1742,Poverty,15000,"$0-$14,999",17.42
+Pampa,2,6663,Poverty,15000,"$0-$14,999",66.63
+Paris,3,10082,Poverty,15000,"$0-$14,999",100.82
+Pasadena,3,48724,Middle Income,50000,"$35,000 - $49,999",487.24
+Pearland,2,39527,Middle Income,50000,"$35,000 - $49,999",395.27
+Pearsall,1,2423,Poverty,15000,"$0-$14,999",24.23
+Pecos,1,2818,Poverty,15000,"$0-$14,999",28.18
+Penitas,1,1238,Poverty,15000,"$0-$14,999",12.38
+Perryton,1,3031,Poverty,15000,"$0-$14,999",30.31
+Pflugerville,1,20266,Poverty,15000,"$15,000 - $24,999",202.66
+Pharr,3,21609,Poverty,15000,"$15,000 - $24,999",216.09
+Pilot Point,1,1736,Poverty,15000,"$0-$14,999",17.36
+Pinehurst,1,935,Poverty,15000,"$0-$14,999",9.35
+Pineland,1,260,Poverty,15000,"$0-$14,999",2.6
+Pittsburg,2,1549,Poverty,15000,"$0-$14,999",15.49
+Plainview,2,7054,Poverty,15000,"$0-$14,999",70.54
+Plano,3,105557,High Income,150000,"$100,000 - $149,999",1055.57
+Plantersville,1,244,Poverty,15000,"$0-$14,999",2.44
+Pleasanton,1,3570,Poverty,15000,"$0-$14,999",35.7
+Port Arthur,3,20301,Poverty,15000,"$15,000 - $24,999",203.01
+Port Isabel,1,1843,Poverty,15000,"$0-$14,999",18.43
+Port Lavaca,1,4326,Poverty,15000,"$0-$14,999",43.26
+Port Neches,1,5006,Poverty,15000,"$0-$14,999",50.06
+Portland,1,5845,Poverty,15000,"$0-$14,999",58.45
+Poteet,2,1024,Poverty,15000,"$0-$14,999",10.24
+Premont,1,779,Poverty,15000,"$0-$14,999",7.79
+Princeton,2,3275,Poverty,15000,"$0-$14,999",32.75
+Progreso,1,1391,Poverty,15000,"$0-$14,999",13.91
+Queen City,1,649,Poverty,15000,"$0-$14,999",6.49
+Quinlan,1,574,Poverty,15000,"$0-$14,999",5.74
+Quitman,1,813,Poverty,15000,"$0-$14,999",8.13
+Ralls,1,633,Poverty,15000,"$0-$14,999",6.33
+Ranger,1,909,Poverty,15000,"$0-$14,999",9.09
+Raymondville,1,2690,Poverty,15000,"$0-$14,999",26.9
+Red Oak,1,3995,Poverty,15000,"$0-$14,999",39.95
+Redwater,1,398,Poverty,15000,"$0-$14,999",3.98
+Reno,1,984,Poverty,15000,"$0-$14,999",9.84
+Rhome,1,564,Poverty,15000,"$0-$14,999",5.64
+Richardson,3,42723,Middle Income,50000,"$35,000 - $49,999",427.23
+Richland Hills,1,3069,Poverty,15000,"$0-$14,999",30.69
+Richmond,1,3591,Poverty,15000,"$0-$14,999",35.91
+Richwood,1,1356,Poverty,15000,"$0-$14,999",13.56
+Rio Grande City,5,4102,Poverty,15000,"$0-$14,999",41.02
+Rio Hondo,1,911,Poverty,15000,"$0-$14,999",9.11
+Rio Vista,1,333,Poverty,15000,"$0-$14,999",3.33
+Riverside,1,210,Poverty,15000,"$0-$14,999",2.1
+Robinson,1,3945,Poverty,15000,"$0-$14,999",39.45
+Robstown,2,3728,Poverty,15000,"$0-$14,999",37.28
+Rockdale,1,2175,Poverty,15000,"$0-$14,999",21.75
+Rockport,1,3967,Poverty,15000,"$0-$14,999",39.67
+Rockwall,1,15218,Poverty,15000,"$15,000 - $24,999",152.18
+Roma,2,3004,Poverty,15000,"$0-$14,999",30.04
+Rosebud,1,398,Poverty,15000,"$0-$14,999",3.98
+Rosenberg,2,12015,Poverty,15000,"$0-$14,999",120.15
+Round Rock,1,37830,Middle Income,50000,"$35,000 - $49,999",378.3
+Rowlett,2,20572,Poverty,15000,"$15,000 - $24,999",205.72
+Rusk,1,1300,Poverty,15000,"$0-$14,999",13
+Sachse,1,7655,Poverty,15000,"$0-$14,999",76.55
+Saginaw,1,7631,Poverty,15000,"$0-$14,999",76.31
+San Angelo,7,36854,Middle Income,50000,"$35,000 - $49,999",368.54
+San Antonio,54,497794,High Income,350000,"$200,000 - $350,000",4977.94
+San Augustine,1,766,Poverty,15000,"$0-$14,999",7.66
+San Benito,4,7554,Poverty,15000,"$0-$14,999",75.54
+San Diego,1,1369,Poverty,15000,"$0-$14,999",13.69
+San Juan,2,23,Poverty,15000,"$0-$14,999",0.23
+San Leon,1,2068,Poverty,15000,"$0-$14,999",20.68
+San Marcos,4,22775,Poverty,15000,"$15,000 - $24,999",227.75
+San Saba,1,921,Poverty,15000,"$0-$14,999",9.21
+Sanger,1,2784,Poverty,15000,"$0-$14,999",27.84
+Santa Fe,1,4726,Poverty,15000,"$0-$14,999",47.26
+Santa Rosa,1,69,Poverty,15000,"$0-$14,999",0.69
+Schertz,1,13508,Poverty,15000,"$0-$14,999",135.08
+Schulenburg,1,1015,Poverty,15000,"$0-$14,999",10.15
+Seagoville,1,4219,Poverty,15000,"$0-$14,999",42.19
+Seagraves,1,771,Poverty,15000,"$0-$14,999",7.71
+Sealy,1,2252,Poverty,15000,"$0-$14,999",22.52
+Seguin,2,10126,Poverty,15000,"$0-$14,999",101.26
+Seminole,1,2389,Poverty,15000,"$0-$14,999",23.89
+Seven Points,1,471,Poverty,15000,"$0-$14,999",4.71
+Seymour,1,1143,Poverty,15000,"$0-$14,999",11.43
+Shallowater,1,815,Poverty,15000,"$0-$14,999",8.15
+Shepherd,1,961,Poverty,15000,"$0-$14,999",9.61
+Sherman,6,14939,Poverty,15000,"$0-$14,999",149.39
+Shiner,1,818,Poverty,15000,"$0-$14,999",8.18
+Silsbee,2,2550,Poverty,15000,"$0-$14,999",25.5
+Sinton,1,1923,Poverty,15000,"$0-$14,999",19.23
+Slaton,1,2278,Poverty,15000,"$0-$14,999",22.78
+Smithville,1,1657,Poverty,15000,"$0-$14,999",16.57
+Snyder,1,4094,Poverty,15000,"$0-$14,999",40.94
+Socorro,2,9169,Poverty,15000,"$0-$14,999",91.69
+Somerset,1,468,Poverty,15000,"$0-$14,999",4.68
+Somerville,1,589,Poverty,15000,"$0-$14,999",5.89
+Sonora,1,1233,Poverty,15000,"$0-$14,999",12.33
+Sour Lake,1,789,Poverty,15000,"$0-$14,999",7.89
+Spearman,1,1182,Poverty,15000,"$0-$14,999",11.82
+Splendora,1,647,Poverty,15000,"$0-$14,999",6.47
+Spring,2,19847,Poverty,15000,"$15,000 - $24,999",198.47
+Spring Branch,1,10,Poverty,15000,"$0-$14,999",0.1
+Springtown,2,1139,Poverty,15000,"$0-$14,999",11.39
+Stamford,1,1418,Poverty,15000,"$0-$14,999",14.18
+Stephenville,1,6699,Poverty,15000,"$0-$14,999",66.99
+Stockdale,1,434,Poverty,15000,"$0-$14,999",4.34
+Stratford,1,730,Poverty,15000,"$0-$14,999",7.3
+Sullivan City,1,1281,Poverty,15000,"$0-$14,999",12.81
+Sulphur Springs,2,6101,Poverty,15000,"$0-$14,999",61.01
+Sweeny,1,1342,Poverty,15000,"$0-$14,999",13.42
+Sweetwater,1,3801,Poverty,15000,"$0-$14,999",38.01
+Taft,1,1062,Poverty,15000,"$0-$14,999",10.62
+Tahoka,1,1018,Poverty,15000,"$0-$14,999",10.18
+Tatum,1,452,Poverty,15000,"$0-$14,999",4.52
+Taylor,1,5732,Poverty,15000,"$0-$14,999",57.32
+Teague,1,1264,Poverty,15000,"$0-$14,999",12.64
+Temple,7,26926,Low Income,25000,"$15,000 - $24,999",269.26
+Terrell,1,5812,Poverty,15000,"$0-$14,999",58.12
+Texarkana,6,14114,Poverty,15000,"$0-$14,999",141.14
+Texas City,4,16875,Poverty,15000,"$15,000 - $24,999",168.75
+The Colony,1,16244,Poverty,15000,"$15,000 - $24,999",162.44
+Thorndale,1,513,Poverty,15000,"$0-$14,999",5.13
+Three Rivers,1,612,Poverty,15000,"$0-$14,999",6.12
+Timpson,1,528,Poverty,15000,"$0-$14,999",5.28
+Tom Bean,1,433,Poverty,15000,"$0-$14,999",4.33
+Tomball,2,4361,Poverty,15000,"$0-$14,999",43.61
+Trinidad,1,391,Poverty,15000,"$0-$14,999",3.91
+Trinity,1,1165,Poverty,15000,"$0-$14,999",11.65
+Troup,1,628,Poverty,15000,"$0-$14,999",6.28
+Troy,1,732,Poverty,15000,"$0-$14,999",7.32
+Tulia,1,1459,Poverty,15000,"$0-$14,999",14.59
+Tyler,11,36434,Middle Income,50000,"$35,000 - $49,999",364.34
+Uvalde,1,5100,Poverty,15000,"$0-$14,999",51
+Valley Mills,1,478,Poverty,15000,"$0-$14,999",4.78
+Valley View,1,326,Poverty,15000,"$0-$14,999",3.26
+Van,1,954,Poverty,15000,"$0-$14,999",9.54
+Van Alstyne,1,1305,Poverty,15000,"$0-$14,999",13.05
+Vernon,1,4375,Poverty,15000,"$0-$14,999",43.75
+Victoria,8,23607,Poverty,15000,"$15,000 - $24,999",236.07
+Vidor,4,3887,Poverty,15000,"$0-$14,999",38.87
+Waco,9,48050,Middle Income,50000,"$35,000 - $49,999",480.5
+Wake Village,1,1950,Poverty,15000,"$0-$14,999",19.5
+Waller,1,1022,Poverty,15000,"$0-$14,999",10.22
+Wallis,1,585,Poverty,15000,"$0-$14,999",5.85
+Warren,1,267,Poverty,15000,"$0-$14,999",2.67
+Waskom,1,598,Poverty,15000,"$0-$14,999",5.98
+Watauga,2,7732,Poverty,15000,"$0-$14,999",77.32
+Waxahachie,1,12032,Poverty,15000,"$0-$14,999",120.32
+Weatherford,3,10718,Poverty,15000,"$0-$14,999",107.18
+Weimar,1,843,Poverty,15000,"$0-$14,999",8.43
+Wellington,1,780,Poverty,15000,"$0-$14,999",7.8
+Weslaco,8,12200,Poverty,15000,"$0-$14,999",122
+West,1,1087,Poverty,15000,"$0-$14,999",10.87
+West Columbia,1,1351,Poverty,15000,"$0-$14,999",13.51
+West Tawakoni,1,867,Poverty,15000,"$0-$14,999",8.67
+Wharton,1,3309,Poverty,15000,"$0-$14,999",33.09
+White Oak,1,2110,Poverty,15000,"$0-$14,999",21.1
+White Settlement,1,6378,Poverty,15000,"$0-$14,999",63.78
+Whitehouse,1,2614,Poverty,15000,"$0-$14,999",26.14
+Whitesboro,1,1615,Poverty,15000,"$0-$14,999",16.15
+Wichita Falls,9,36723,Middle Income,50000,"$35,000 - $49,999",367.23
+Willis,2,1845,Poverty,15000,"$0-$14,999",18.45
+Willow Park,1,1835,Poverty,15000,"$0-$14,999",18.35
+Wills Point,2,1195,Poverty,15000,"$0-$14,999",11.95
+Wilmer,1,1171,Poverty,15000,"$0-$14,999",11.71
+Wimberley,1,1296,Poverty,15000,"$0-$14,999",12.96
+Winnie,1,1348,Poverty,15000,"$0-$14,999",13.48
+Winnsboro,1,1183,Poverty,15000,"$0-$14,999",11.83
+Winters,1,1006,Poverty,15000,"$0-$14,999",10.06
+Wolfe City,1,506,Poverty,15000,"$0-$14,999",5.06
+Wolfforth,1,1609,Poverty,15000,"$0-$14,999",16.09
+Woodway,1,3198,Poverty,15000,"$0-$14,999",31.98
+Wylie,1,14842,Poverty,15000,"$0-$14,999",148.42
+Yorktown,1,692,Poverty,15000,"$0-$14,999",6.92
+Zavalla,1,280,Poverty,15000,"$0-$14,999",2.8
